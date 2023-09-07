@@ -23,3 +23,7 @@ WHEN all specification queries are completed,
 THEN a password conforming to my choices is produced.
 WHEN the password has been created,
 THEN it is either showcased in an alert or displayed on the webpage.
+
+
+Utilized AskBCS Learning Assistants for deployment help
+Utilized Xpert Learning Assistant to review code and look for errors
